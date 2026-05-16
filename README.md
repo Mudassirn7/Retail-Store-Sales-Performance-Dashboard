@@ -1,7 +1,7 @@
 # Retail Stores Sales Performance Dashboard
 
 ## Overview
-Interactive Power BI dashboard analyzing Walmart retail sales data 
+Interactive Power BI dashboard analyzing retail sales data 
 across 45 stores and 81 departments (2010-2012).
 
 ## Key Insights
@@ -16,4 +16,4 @@ across 45 stores and 81 departments (2010-2012).
 - DAX
 
 ## Dataset
-Walmart Store Sales Dataset — 421,000+ records
+Store Sales Dataset — 421,000+ records
